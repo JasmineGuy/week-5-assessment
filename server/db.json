@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "firstName": "Keith",
+        "lastName": "Morrison",
+        "reason": "Extraordinary Storyteller",
+        "imageURL": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2019_37/3006201/keitharticlepic.jpg"
+      },
+      {
+        "id": 2,
+        "firstName": "Lizzo",
+        "lastName": "Jefferson",
+        "reason": "Body Positivity",
+        "imageURL": "https://media.allure.com/photos/6029a898e3129c122cc8b744/16:9/w_3488,h_1962,c_limit/lizzo-lede.jpg"
+
+      },
+      {
+        "id": 3,
+        "firstName": "Leon",
+        "lastName": "Bridges",
+        "reason": "Texas State Musician",
+        "imageURL" : "https://media.allure.com/photos/6029a898e3129c122cc8b744/16:9/w_3488,h_1962,c_limit/lizzo-lede.jpg"
+
+      }
+]

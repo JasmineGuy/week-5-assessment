@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: column;
+  margin-top: 25px;
+  /* padding: 5px; */
+}
+.buttons {
+  height: 15vh;
+  width: 15vw;
+  background-color: aqua;
+  justify-content: space-between;
+  align-items: center;
+}
+.button-container {
+  /* border: 1px solid blue; */
+  width: 100%;
+}
+#role-model-form {
+  width: 350px;
+  height: 350px;
+  background-color: aqua;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 30px;
+}
+input[type="text"] {
+  width: 85%;
+  height: 30px;
+  border: none;
+  border-bottom: 2px solid #232323;
+  color: #232323;
+  background-color: snow;
+}
+#role-model-container {
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* align-items: ; */
+  height: 400px;
+}
+/* #complimentButton {
+  background-image: url("https://images.squarespace-cdn.com/content/v1/59ef163a51a584279696dbe7/1554372586237-2Q4JJ3SGKTHO1U79XV00/STACIESWIFT+TAKE+A+COMPLIMENT.jpg?format=1000w");
+  height: 15vh;
+  width: 15vw;
+} */
